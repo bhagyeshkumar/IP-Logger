@@ -5,4 +5,4 @@ Ip logger Location tracker is Python tool designed to help you to find out the e
 Usage: python iplogger.py www.cybernaut.cf OR
        python iplogger.py 123.201.29.29
 
-![](images/iptracker.png)
+![](images/IP-Logger.gif)
